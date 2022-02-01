@@ -1,0 +1,86 @@
+/* code wallpaper ------------------------------------------------------------------------------------------------------------------------------- */
+.script {
+    padding-top: 20px;
+    color: white;
+    /* text-align: center; */
+    /* display: inline-block; */
+    display: inline-block;
+    /* background-color: #78DCE8; */
+    position: relative;
+    /* top: 50%; */
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.center {
+    justify-content: center;
+}
+
+/* browser ----------------------------------------------------------------------------------------------------------------------------------------------*/
+.browser {
+    display: block;
+    width: 569px;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    margin:auto;
+    
+}
+
+.txtBox {
+	outline: none;
+	box-sizing: border-box;
+    background-color: #3a234600;
+	height: 40px;
+	width: 500px;
+	padding: 0px;
+	color: rgb(255, 255, 255);
+	border-radius: 10px;
+	font-size: 20px;
+	border: 0px;
+    /* caret-color: ; */
+}
+
+.btn {
+	outline: none;
+	box-sizing: border-box;
+    background-color: #a9dc7600;
+	height: 40px;
+	width: 60px;
+	padding: 0px;
+	color: rgb(255, 255, 255);
+	border-radius: 10px;
+	font-size: 20px;
+	border: 0px;
+    text-align: center;
+    cursor: pointer;
+}
+
+/* shortcuts ---------------------------------------------------------------------------------------------------------------------------------------*/
+img {
+    background-color: #3d3b3e;
+    width: 75px;
+    margin: 0px;
+
+    margin-bottom: 10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 50px;
+    padding-left: 50px;
+    
+    box-shadow: 0px -2px #2b2c26, 0px 0px 5px rgb(37, 37, 37);
+
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.div {
+    display: inline-block;
+    
+}
+
+.box {
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+}
